@@ -10,7 +10,6 @@ WDCD Backend Repository
   - `. myvenv/Scripts/activate`
   - `pip install django`
   - `pip install djangorestframework`
-  - `pip install pygments`
   
   
 </details>
